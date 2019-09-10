@@ -1,4 +1,4 @@
-package com.linock.database.config;
+package com.linocks.database.config;
 
 import org.hibernate.SessionFactory;
 import org.hibernate.boot.Metadata;

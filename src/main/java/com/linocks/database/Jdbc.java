@@ -1,4 +1,4 @@
-package com.linock.database;
+package com.linocks.database;
 
 import java.sql.*;
 

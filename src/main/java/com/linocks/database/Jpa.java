@@ -1,13 +1,12 @@
-package com.linock.database;
+package com.linocks.database;
 
-import com.linock.database.model.Role;
-import com.linock.database.model.User;
+import com.linocks.database.model.Role;
+import com.linocks.database.model.User;
 
 import javax.persistence.EntityManager;
 import javax.persistence.EntityManagerFactory;
 import javax.persistence.Persistence;
 import java.util.List;
-import java.util.Map;
 
 public class Jpa {
     public static void main(String[] args) {

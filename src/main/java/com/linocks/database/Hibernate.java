@@ -1,11 +1,10 @@
-package com.linock.database;
+package com.linocks.database;
 
-import com.linock.database.config.Setup;
-import com.linock.database.model.Role;
-import com.linock.database.model.User;
+import com.linocks.database.config.Setup;
+import com.linocks.database.model.Role;
+import com.linocks.database.model.User;
 import org.hibernate.Session;
 
-import java.util.ArrayList;
 import java.util.List;
 
 public class Hibernate {

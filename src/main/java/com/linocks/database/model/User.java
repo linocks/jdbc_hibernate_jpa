@@ -1,4 +1,4 @@
-package com.linock.database.model;
+package com.linocks.database.model;
 
 import javax.persistence.*;
 import java.util.List;
